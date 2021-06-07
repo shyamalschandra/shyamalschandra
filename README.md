@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 [![Shyamal's github stats](https://github-readme-stats.vercel.app/api?username=shyamalschandra&show_icons=true&hide=["stars"])](https://github.com/shyamalschandra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamalschandra)](https://github.com/shyamalschandra/github-readme-stats)
+
 Source: https://github.com/anuraghazra/github-readme-stats
