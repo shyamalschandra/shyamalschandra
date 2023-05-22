@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything CS, algorithms, and data structures-related.
 - 📫 How to reach me: shyamalc@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I finished 1st (out of 10K) in a MSFT Stock Challenge when I was in 7th grade AFAIR (as far as I remember).
+- ⚡ Fun fact: I finished 1st (out of 10K) in a MSFT Stock Challenge when I was in grade school AFAIR (as far as I remember).
