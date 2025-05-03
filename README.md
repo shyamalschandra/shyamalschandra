@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/shyamalc](https://linkedin.com/in/shyamalc)
 
-- ⚡ Fun fact **I am a Hindu casein-free vegan (love Catholicism too!)**
+- ⚡ Fun fact **I am a Hindu casein-free, gluten-free, low-GI vegan (love Catholicism too!)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
