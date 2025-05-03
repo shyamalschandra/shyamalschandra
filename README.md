@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [bento.me/shyamalchandra](bento.me/shyamalchandra)
 
-- 📝 I regularly write articles on [shyamalchandra.com](shyamalchandra.com)
+- 📝 I regularly write articles on [https://shyamalchandra.com](https://shyamalchandra.com)
 
 - 💬 Ask me about **Swift, C/C++, Java, Python, MATLAB**
 
