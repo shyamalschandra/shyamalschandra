@@ -19,13 +19,13 @@
 
 - 👨‍💻 All of my projects are available at [bento.me/shyamalchandra](bento.me/shyamalchandra)
 
-- 📝 I regularly write articles on [https://shyamalchandra.com](https://shyamalchandra.com)
+- 📝 I regularly write articles on [https://shyamalchandra.home.blog](https://shyamalchandra.home.blog)
 
 - 💬 Ask me about **Swift, C/C++, Java, Python, MATLAB**
 
 - 📫 How to reach me **ssc56@duck.com**
 
-- 📄 Know about my experiences [linkedin.com/in/shyamalc](linkedin.com/in/shyamalc)
+- 📄 Know about my experiences [https://linkedin.com/in/shyamalc](https://linkedin.com/in/shyamalc)
 
 - ⚡ Fun fact **I am a Hindu vegan (love Catholicism too!)**
 
