@@ -75,3 +75,9 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://streak-stats.demolab.com?user=shyamalschandra&theme=tokyonight&hide_border=true)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shyamalschandra?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![shyamalschandra's Stats](https://github-readme-stats.vercel.app/api?username=shyamalschandra&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+
+![shyamalschandra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyamalschandra&theme=highcontrast&hide_border=false)
+
+![shyamalschandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamalschandra&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
