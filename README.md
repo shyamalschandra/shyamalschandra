@@ -40,7 +40,7 @@
 <a href="https://kaggle.com/shyamalchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shyamalchandra" height="30" width="40" /></a>
 <a href="https://instagram.com/advancecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="advancecoder" height="30" width="40" /></a>
 <a href="https://medium.com/@shyamalchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shyamalchandra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shyamalchandraofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shyamalchandraofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shyamalchandraofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shyamalchandraofficial" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shyamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shyamal" height="30" width="40" /></a>
 </p>
 
