@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/shyamalc](https://linkedin.com/in/shyamalc)
 
-- ⚡ Fun fact **I am a Hindu gluten-free, low-GI, alkaline, low-carb, high-protein vegetarian (love Catholicism too!)**
+- ⚡ Fun fact **I am a strict Hindu Ayurveda-friendly, gluten-free, low-GI, alkaline, low-carb, high-protein vegan (love Roman Catholicism too!)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
