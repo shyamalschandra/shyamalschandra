@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Swift/UI**
 
-- 🌱 I’m currently learning **Rust, GoLang, and Cloudflare**
+- 🌱 I’m currently learning **WASM, asm.js, Rust, GoLang, and Cloudflare**
 
 - 👯 I’m looking to collaborate on **Bash/Zsh**
 
