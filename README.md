@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shyamal_chandra" target="blank"><img src="https://img.shields.io/twitter/follow/shyamal_chandra?logo=twitter&style=for-the-badge" alt="shyamal_chandra" /></a> </p>
 
-- 🔭 I’m currently working on **Swift/UI**
+- 🔭 I’m currently working on **Swift/UI** on NLU, NLP, ML, Deep Learning, GenAI, and Graphics.
 
 - 🌱 I’m currently learning **WASM, asm.js, Rust, GoLang, Dockers, Kubernetes, Mesos, and Cloudflare**
 
