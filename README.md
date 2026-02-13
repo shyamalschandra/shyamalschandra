@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shyamal Suhana Chandra</h1>
-<h3 align="center">A passionate AI engineer from Kansas, USA</h3>
+<h3 align="center">A passionate AI engineer from Southeast Kansas, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamalschandra&label=Profile%20views&color=0e75b6&style=flat" alt="shyamalschandra" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://shyamalchandra.home.blog](https://shyamalchandra.home.blog)
 
-- 💬 Ask me about **Swift, C/C++, Java, Python, MATLAB**
+- 💬 Ask me about **Swift/UI, Objective-C, C/C++, Java, Python, MATLAB**
 
 - 📫 How to reach me **ssc56@duck.com**
 
