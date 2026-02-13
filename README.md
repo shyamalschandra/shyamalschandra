@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Python 3**
 
-- 👨‍💻 All of my projects are available at [bento.me/shyamalchandra](https://bento.me/shyamalchandra)
+- 👨‍💻 All of my projects are available at [https://kasbu.bio/shyamal](https://kasbu.bio/shyamal)
 
 - 📝 I regularly write articles on [https://shyamalchandra.home.blog](https://shyamalchandra.home.blog)
 
